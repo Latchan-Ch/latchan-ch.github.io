@@ -3,7 +3,7 @@
 # Basic Site Settings
 locale           : "en-US"
 site_theme       : "default" 
-title            : "Latchan Chhetri | Academic Portfolio"
+title            : "Academic Portfolio"
 title_separator  : "-"
 name             : &name "Latchan Chhetri"
 description      : &description "Undergraduate AI & Computer Vision Researcher specializing in hardware-efficient architectures and state-space models."  
@@ -16,15 +16,16 @@ author:
   avatar           : "profile.jpeg"
   name             : "Latchan Chhetri"
   pronouns         : "he/him"  
-  bio              : "AI Researcher | B.Tech CSE (AI & DS) @ SMIT | Joint Research Intern @ ISI Kolkata & Univ. of Salford."
+  bio              : "AI Researcher | B.Tech CSE (AI & DS) @ MIT, Sikkim | Research Intern @ ISI Kolkata & Univ. of Salford."
   location         : "India"
   employer         : "Sikkim Manipal Institute of Technology"
   uri              : "https://latchan-ch.github.io"
   email            : "latchanchhetri19@gmail.com" 
-  arxiv            : "https://arxiv.org/a/LatchanChhetri"
-  github           : "Latchan-Ch"
-  kaggle           : "latchan"  
   linkedin         : "latchan-chhetri-704380297"
+  github           : "https://github.com/Latchan-Ch"
+  arxiv            : "https://arxiv.org/a/LatchanChhetri"
+  kaggle           : "latchan"  
+
 
 # Publication Category 
 publication_category:
