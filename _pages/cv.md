@@ -3,11 +3,13 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
+
+**Download my full academic CV here:** [**Latchan_Chhetri_CV.pdf**]({{ site.url }}{{ site.baseurl }}/files/Latchan_Chhetri_CV.pdf)
+
+---
 
 ## Education
 * **Bachelor of Technology in Computer Science and Engineering (Data Science)**
