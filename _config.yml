@@ -102,6 +102,7 @@ collections:
     output: true
   portfolio:
     output: true
+    permalink: /:collection/:path/
   talks:
     output: true
 
