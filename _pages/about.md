@@ -20,7 +20,7 @@ My research centers on building efficient, scalable deep learning systems for hi
   * Directed and mentored student research teams, teaching core methodologies and guiding end-to-end projects from conceptualization to multiple acceptances in IEEE venues.
   * Developed and open-sourced novel, hardware-efficient state-space models (e.g., DDV-Mamba).
   * Collaborated on cross-disciplinary uncertainty-aware AI frameworks with distinguished faculty, including highly cited researchers (Dr. Swalpa Kumar Roy, Prof. Palash Ghoshal).
-* **Data Science Intern** | *Soft Nexis Technology*
+* **AI & Data Science Intern** | *Soft Nexis Technology*
   * Engineered RealVisor, an end-to-end AI real estate analytics platform utilizing XGBoost and Random Forest Regressors for robust property valuation.
 
 ### Core Research Themes
