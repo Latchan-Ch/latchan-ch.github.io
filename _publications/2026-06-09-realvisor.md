@@ -5,6 +5,7 @@ permalink: /publication/realvisor
 excerpt: 'An end-to-end AI analytics platform for property valuation using XGBoost and Streamlit.'
 date: 2025-08-01
 venue: 'Project | Soft Nexis Technology'
+paperurl: '#'
 ---
 
 ### Project Overview
