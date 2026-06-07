@@ -5,10 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+Here is a comprehensive list of my peer-reviewed manuscripts, conference papers, and active research projects.
 
-Here you can find my peer-reviewed manuscripts, conference papers, and active research preprints.
-
-{% for post in site.publications reversed %}
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
