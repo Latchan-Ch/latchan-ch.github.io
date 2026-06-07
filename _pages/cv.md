@@ -42,6 +42,6 @@ redirect_from:
 
 ## Technical Skills
 * **Languages & Frameworks:** Python, C, Java, PyTorch, TensorFlow, Keras, Streamlit, LaTeX, Git, GitHub
-* **Computer Vision:** Transformers, Mamba, SSMs, U-Net, CNNs, Deep Delta Learning, Diffusion Models, GANs, YOLO, Vision Language Models, Tesseract, SVG, 3D Modelling, Blender
+* **Computer Vision:** Transformers, Mamba, SSMs, U-Net, CNNs, Deep Delta Learning, Diffusion Models, GANs, YOLO, Vision Language Models, Tesseract, SVG, 3D Modelling, Blender..
 * **Signal Processing & NLP:** 1D CNNs, Signal Analysis, Spacy, NLTK, Text Mining, OCR Pipelines
 * **Data Engineering & Tools:** Pandas, NumPy, SciPy, Scikit-learn, ETL Workflows, Hadoop, Spark
