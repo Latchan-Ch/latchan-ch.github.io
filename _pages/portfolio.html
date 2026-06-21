@@ -5,8 +5,11 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+Portfolio count: {{ site.portfolio.size }}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html post=post %}
+<hr>
+
+{% for item in site.portfolio %}
+<h2>{{ item.title }}</h2>
+<p>{{ item.url }}</p>
 {% endfor %}
