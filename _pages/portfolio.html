@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Portfolio count: {{ site.portfolio.size }}
-
 {% for post in site.portfolio %}
-  <h2>{{ post.title }}</h2>
-  <p>{{ post.url }}</p>
+  {% include archive-single.html %}
 {% endfor %}
