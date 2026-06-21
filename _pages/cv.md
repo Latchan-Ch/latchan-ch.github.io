@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Download my full academic CV here:** [**Latchan_ChhetriCV.pdf**]({{ site.url }}{{ site.baseurl }}/files/Latchan_CV.pdf)
+**Download my full academic CV here:** [**Download CV**]({{ site.url }}{{ site.baseurl }}/files/Latchan_CV.pdf)
 
 ---
 
