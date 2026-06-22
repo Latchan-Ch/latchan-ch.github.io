@@ -17,6 +17,7 @@ My research centers on building efficient, scalable deep learning systems for hi
 * **Computer Vision & OCR:** Generative Adversarial Networks, Diffusion Models, Tesseract, Vision Transformers, and Deep Delta Learning applications for image restorations, degraded document analysis & scene text recognition.
 
 ### Independent Research Group — Halo Mind
+Hybrid Architectures & Lightweight Optimization | Machine Intelligence & Neural Dynamics
 
 I am the Founder and Lead Research Architect of **Halo Mind**, an independent research group focused on hardware-efficient AI systems, State Space Models (Mamba), Deep Delta Learning (DDL), uncertainty-aware machine learning, and lightweight architectures for real-world deployment.
 
