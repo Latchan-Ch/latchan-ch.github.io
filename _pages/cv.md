@@ -30,6 +30,13 @@ author_profile: true
 
 ## Experience
 
+* **Founder & Lead Research Architect** | *Jan 2026 – Present*
+
+  * *Halo Mind Research Group (Independent Research Organization)*
+  * Direct the fundamental scientific trajectory of an independent research group focused on hardware-efficient sub-quadratic mechanisms, including Deep Delta Learning (DDL) and Vision Mamba architectures.
+  * Lead a distributed team of ML Systems Engineers, Applied Vision Researchers, and Data Engineering Interns to execute end-to-end experimental research and deployment workflows.
+  * Oversee the development, deployment, and rigorous evaluation of open-source PyTorch frameworks spanning Space AI, solar-weather forecasting, medical imaging, and uncertainty-aware conformal prediction systems.
+
 * **Research Assistant (AI & Computer Vision)** | *May 2026 – Present*
 
   * *The ALIEN Lab, Aston University, UK (Remote)*
