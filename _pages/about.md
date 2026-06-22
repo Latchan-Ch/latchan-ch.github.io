@@ -23,7 +23,7 @@ I am the Founder and Lead Research Architect of **Halo Mind**, an independent re
 
 Our research spans medical imaging, remote sensing, space-weather forecasting, OCR, and robust machine learning under resource-constrained environments. We emphasize rigorous experimentation, reproducibility, and mathematically grounded AI systems capable of operating under distribution shifts and uncertain conditions.
 
-**Research Areas:** State Space Models (Mamba), Deep Delta Learning, Conformal Prediction, Computer Vision, Medical AI, Remote Sensing, OCR, Edge AI, and much more..
+**Research Areas:** State Space Models (Mamba), Deep Delta Learning, Conformal Prediction, Computer Vision, Medical AI, Remote Sensing, OCR, Edge AI, and much more...
 
 **Website:** https://halomind-research.github.io
 **Contact:** [halomind.research.group@gmail.com](mailto:halomind.research.group@gmail.com)
