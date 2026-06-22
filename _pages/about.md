@@ -15,3 +15,14 @@ My research centers on building efficient, scalable deep learning systems for hi
 * **Efficient Architectures:** Developing lightweight, high-throughput architectures via geometric residual learning and DDL overwrites for edge-device deployment.
 * **Medical Imaging & Remote Sensing:** Developing robust frameworks resistant to distribution shifts and data leakage. Utilizing light-weight & efficient architectures for remote sensing and earth observations.
 * **Computer Vision & OCR:** Generative Adversarial Networks, Diffusion Models, Tesseract, Vision Transformers, and Deep Delta Learning applications for image restorations, degraded document analysis & scene text recognition.
+
+### Independent Research Group — Halo Mind
+
+I am the Founder and Lead Research Architect of **Halo Mind**, an independent research group focused on hardware-efficient AI systems, State Space Models (Mamba), Deep Delta Learning (DDL), uncertainty-aware machine learning, and lightweight architectures for real-world deployment.
+
+Our research spans medical imaging, remote sensing, space-weather forecasting, OCR, and robust machine learning under resource-constrained environments. We emphasize rigorous experimentation, reproducibility, and mathematically grounded AI systems capable of operating under distribution shifts and uncertain conditions.
+
+**Research Areas:** State Space Models (Mamba), Deep Delta Learning, Conformal Prediction, Computer Vision, Medical AI, Remote Sensing, OCR, Edge AI, and much more..
+
+**Website:** https://halomind-research.github.io
+**Contact:** [halomind.research.group@gmail.com](mailto:halomind.research.group@gmail.com)
