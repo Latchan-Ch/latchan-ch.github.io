@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am Latchan and my research centers on building efficient, scalable deep learning systems for high-degradation and low-resource environments. I specialize in AI, ML, DL, and Computer Vision, using applications like novel state-space models (SSMs), self-supervised pretraining, and uncertainty-aware learning across diverse domains ranging from OCR to biomedical signal processing and medical imaging to complex computer vision and document analysis. Driven by end-to-end ML workflows, I actively open-source my architectures and am fiercely preparing for masters/ Phd admissions to advance foundational AI representations.
+I am Latchan and my research centers on building efficient, scalable deep learning systems for high-degradation and low-resource environments. I specialize in AI, ML, DL, and Computer Vision, using applications like novel state-space models (SSMs), self-supervised pretraining, and uncertainty-aware learning across diverse domains ranging from OCR to biomedical signal processing and medical imaging to complex computer vision and document analysis. Driven by end-to-end ML workflows, I actively open-source my architectures and am preparing for masters/ Phd admissions to advance foundational AI representations.
 
 ### Core Research Themes
 * **State Space Models & Sequence Modeling:** Optimizing 2D and 3D Mamba architectures for spatial, temporal, and volumetric modeling.
