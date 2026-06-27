@@ -19,4 +19,4 @@ Satellite-based urban change detection enables an emerging generation of geospat
 * **SOTA Benchmark Performance:** Achieved state-of-the-art results on the LEVIR-CD benchmark (F1=89.94% and IoU=81.72%), exceeding the originally reported numbers and outperforming the strongest purely convolutional baselines like FC-Siam-Diff.
 
 ### Code & Resources
-* The official PyTorch implementation and pre-trained weights will be made publicly available on GitHub following the conclusion of the double-blind review process.
+* [Official PyTorch Implementation (GitHub)](https://github.com/HaloMind-Research/Conformal-Satellite-Change-Detection)

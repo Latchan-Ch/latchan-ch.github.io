@@ -16,3 +16,6 @@ Deciphering highly degraded ancient scripts is severely bottlenecked by a lack o
 * **Synthetic-to-Real Domain Gap Study:** Established the first severity-based Character Error Rate (CER) evaluation benchmark for ancient Indic scripts, isolating how physical stone degradation impacts text decoding.
 * **Self-Supervised OCR Architecture:** Developed an efficient architecture integrating SimCLR self-supervised pretraining on a ResNet34 backbone, coupled with a bidirectional LSTM and Connectionist Temporal Classification (BiLSTM-CTC) decoder.
 * **Team Leadership:** Spearheading the research vision, designing ETL pipelines, and mentoring student collaborators through data curation and model optimization phases.
+
+### Code & Resources
+* Official PyTorch Implementation will be linked upon publication.

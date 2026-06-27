@@ -16,3 +16,6 @@ A primary challenge in automated skin lesion and boundary segmentation is the se
 * **Learnable Fuzzy Kernels:** Successfully combined fuzzy logic uncertainty filtering with deep representation learning, creating an explicit mathematical mechanism to handle spatial margin ambiguity in medical imaging.
 * **Massive Hyperparameter Optimization:** Orchestrated large-scale hyperparameter searches utilizing Optuna to converge on robust kernel configurations.
 * **Rigorous Multi-Dataset Evaluation:** Validated generalizability through extensive testing across multiple clinical datasets (ISIC, BUSI, PH2) supported by detailed 5-variant systematic ablation studies.
+
+### Code & Resources
+* Official PyTorch Implementation will be linked upon publication.

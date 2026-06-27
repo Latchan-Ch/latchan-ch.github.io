@@ -19,4 +19,4 @@ Modern Industrial Cyber-Physical Systems heavily leverage Web 6.0 communication 
 * **Expanded-State Memory Quarantine:** Implemented a persistent memory matrix (d_v = 4) that physically isolates and contains adversarial contamination at layer borders, preventing noise from corrupting the global memory stream.
 
 ### Code & Resources
-* Code repository will be made available upon publication and conclusion of the double-blind review process.
+* [Official PyTorch Implementation (GitHub)](https://github.com/Latchan-Ch/Intrinsic-Neural-Firewalls)
