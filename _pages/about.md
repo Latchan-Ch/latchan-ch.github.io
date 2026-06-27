@@ -24,5 +24,6 @@ Our research spans medical imaging, remote sensing, space-weather forecasting, O
 
 **Research Areas:** State Space Models (Mamba), Deep Delta Learning, Conformal Prediction, Computer Vision, Medical AI, Remote Sensing, OCR, Edge AI, and much more...
 
-**Website:** https://halomind-research.github.io
-**Contact:** halomind.research.group@gmail.com
+**Website:** [Halo Mind Research Group](https://halomind-research.github.io)
+
+**Email:** [halomind.research.group@gmail.com](mailto:halomind.research.group@gmail.com)
