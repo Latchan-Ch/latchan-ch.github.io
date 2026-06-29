@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am Latchan and my research centers on building efficient, scalable deep learning systems for high-degradation and low-resource environments. I specialize in AI, ML, DL, and Computer Vision, using applications like novel state-space models (SSMs), self-supervised pretraining, and uncertainty-aware learning across diverse domains ranging from OCR to biomedical signal processing and medical imaging to complex computer vision and document analysis. Driven by end-to-end ML workflows, I actively open-source my architectures and am preparing for masters/ Phd admissions to advance foundational AI representations.
+I am Latchan, and my work centers on architecting hardware-efficient, scalable deep learning systems for high-degradation and extreme physical environments. I specialize in bridging continuous physical dynamics with discrete neural computation, utilizing sub-quadratic mechanisms (SSMs), uncertainty-aware learning, and geometric residual frameworks. Driven by end-to-end ML workflows, I actively open-source my architectures and focus on translating theoretical foundations into provably reliable, real-world physical deployments.
 
 ### Core Research Themes
 * **State Space Models & Sequence Modeling:** Optimizing 2D and 3D Mamba architectures for spatial, temporal, and volumetric modeling.
@@ -18,7 +18,7 @@ I am Latchan and my research centers on building efficient, scalable deep learni
 ### Independent Research Group — Halo Mind
 Hybrid Architectures & Lightweight Optimization | Machine Intelligence & Neural Dynamics
 
-I am the Founder and Lead Research Architect of **Halo Mind**, an independent research group focused on hardware-efficient AI systems, State Space Models (Mamba), Deep Delta Learning (DDL), uncertainty-aware machine learning, and lightweight architectures for real-world deployment.
+I am the Co-Founder and Chief AI Scientist of Halo Mind, a Research Group & applied DeepTech and AI research firm focused on hardware-efficient systems, AI systems, State Space Models (Mamba), Deep Delta Learning (DDL), uncertainty-aware machine learning, and lightweight architectures for real-world deployment.
 
 Our research spans medical imaging, remote sensing, space-weather forecasting, OCR, and robust machine learning under resource-constrained environments. We emphasize rigorous experimentation, reproducibility, and mathematically grounded AI systems capable of operating under distribution shifts and uncertain conditions.
 
