@@ -5,7 +5,7 @@ permalink: /publication/2026-swin-brain-tumor
 excerpt: 'We propose an Attention-Enhanced Swin Transformer integrating hierarchical windowed attention with CBAM to mitigate data leakage, achieving 96.82% accuracy on strict patient-level splits.'
 date: 2026-06-05
 venue: 'Accepted at IEEE GCON'
-paperurl: 'https://github.com/Latchan-Ch/Robust-Swin-Brain-Tumor'
+paperurl: '#'
 citation: 'L. Chhetri, P. Ghosal, A. Datta. (2026). &quot;Attention-Enhanced Swin Transformers for Robust Brain Tumor Classification Under Patient-Level Data Splitting.&quot; <i>IEEE GCON</i>.'
 ---
 
