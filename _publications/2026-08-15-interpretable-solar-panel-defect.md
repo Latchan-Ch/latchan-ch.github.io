@@ -6,7 +6,7 @@ excerpt: 'An interpretable vision framework that automatically extracts human-re
 date: 2026-08-15
 venue: 'Under Review at ICVGIP, 2026'
 paperurl: '#'
-citation: 'L. Chhetri, A. Kumar, D. Das, P. Ghosal. (2026). &quot;Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Hierarchical Vision Models.&quot; <i>ICVGIP</i>.'
+citation: 'L. Chhetri, A. Kumar, D. Das, P. Ghosal. (2026). &quot;Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Hierarchical Vision Models.&quot; <i>ICVGIP (Under Review)</i>.'
 ---
 
 ### Abstract
