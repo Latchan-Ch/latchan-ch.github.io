@@ -21,8 +21,8 @@ Spatial deepfake detectors in medical imaging often exploit dataset-level artifa
 ### Publication Status
 **Accepted at IEEE DSAA, 2026 — CORE A Tier**
 
-**Authors:** A. Kumar*, L. Chhetri*, D. Das*  
-*Equal Contribution
+**Authors:** A. Kumar, L. Chhetri, D. Das  
+* All authors contributed equally in this research
 
 ### Code & Resources
 * [Official PyTorch Implementation (GitHub)](https://github.com/HaloMind-Research/SPECTRAFORGE)
