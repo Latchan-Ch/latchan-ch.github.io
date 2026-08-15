@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-I am Latchan, and my work centers on architecting hardware-efficient, scalable deep learning systems for high-degradation and extreme physical environments. I specialize in bridging continuous physical dynamics with discrete neural computation, utilizing sub-quadratic mechanisms (SSMs), uncertainty-aware learning, and geometric residual frameworks. Driven by end-to-end ML workflows, I actively open-source my architectures and focus on translating theoretical foundations into provably reliable, real-world physical deployments.
+I am Latchan, and my work centers on architecting hardware-efficient, scalable deep learning systems for high-degradation and extreme physical environments. I specialize in bridging continuous physical dynamics with discrete neural computation, utilizing deep learning frameworks, sub-quadratic mechanisms, uncertainty-aware learning, and geometric residual frameworks. Driven by end-to-end ML workflows, I actively open-source my architectures and focus on translating theoretical foundations into provably reliable, real-world physical deployments.
 
 ### Core Research Themes
+* **Computer Vision & OCR:** Generative Adversarial Networks, Diffusion Models, Tesseract, Vision Transformers, and Deep Delta Learning applications for image restorations, degraded document analysis & scene text recognition.
 * **State Space Models & Sequence Modeling:** Optimizing 2D and 3D Mamba architectures for spatial, temporal, and volumetric modeling.
 * **Uncertainty Quantification:** Integrating conformal prediction and fuzzy logic for provable reliability in medical and satellite imagery.
 * **Efficient Architectures:** Developing lightweight, high-throughput architectures via geometric residual learning and DDL overwrites for edge-device deployment.
 * **Medical Imaging & Remote Sensing:** Developing robust frameworks resistant to distribution shifts and data leakage. Utilizing light-weight & efficient architectures for remote sensing and earth observations.
-* **Computer Vision & OCR:** Generative Adversarial Networks, Diffusion Models, Tesseract, Vision Transformers, and Deep Delta Learning applications for image restorations, degraded document analysis & scene text recognition.
 
 ### Independent Research Group — Halo Mind
 Hybrid Architectures & Lightweight Optimization | Machine Intelligence & Neural Dynamics
