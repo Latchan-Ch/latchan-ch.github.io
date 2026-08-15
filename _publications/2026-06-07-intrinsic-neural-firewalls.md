@@ -18,5 +18,10 @@ Modern Industrial Cyber-Physical Systems heavily leverage Web 6.0 communication 
 * **Attack-Agnostic (Zero-Shot) Training:** Designed the model to train exclusively on clean sequences of observations, allowing it to detect zero-day False Data Injection Attacks without needing prior exposure to malicious signatures.
 * **Expanded-State Memory Quarantine:** Implemented a persistent memory matrix (d_v = 4) that physically isolates and contains adversarial contamination at layer borders, preventing noise from corrupting the global memory stream.
 
+### Publication Status
+**Accepted for Oral Presentation at WIN 6.0, 2026**
+
+**Authors:** R. Das, L. Chhetri, A. Kumar, P. Ghosal
+
 ### Code & Resources
 * [Official PyTorch Implementation (GitHub)](https://github.com/Latchan-Ch/Intrinsic-Neural-Firewalls)
