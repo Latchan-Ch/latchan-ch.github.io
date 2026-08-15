@@ -14,75 +14,69 @@ author_profile: true
 ## Education
 
 * **Bachelor of Technology in Computer Science and Engineering (AI & Data Science)**
-
   * Sikkim Manipal Institute of Technology (SMIT), Sikkim, India
   * July 2023 – June 2027
 
-* **ISC (Class 12) – Science Stream**
-
+* **ISC (Class 11 & 12) – Science**
   * St. Xavier’s School, West Bengal, India
   * April 2021 – March 2023
 
-* **ICSE (Class 10)**
-
+* **ICSE (Class 1–10)**
   * St. Xavier’s School, West Bengal, India
   * April 2010 – March 2021
 
+---
+
 ## Experience
 
-* **Founder & Lead Research Architect** | *Jan 2026 – Present*
+* **Founder & Chief AI Researcher** | *Jan 2026 – Present*
+  * *Halo Mind Research Group*
+  * Direct the scientific trajectory of an independent research group focused on hardware-efficient networks and sub-quadratic mechanisms.
+  * Lead a distributed team of ML Systems Engineers, Applied Vision Researchers, and Data Engineering Interns.
+  * Oversee open-source PyTorch frameworks spanning Space AI, solar-weather forecasting, medical imaging, and conformal prediction.
 
-  * *Halo Mind Research Group (Independent Research Organization)*
-  * Direct the fundamental scientific trajectory of an independent research group focused on hardware-efficient sub-quadratic mechanisms, including Deep Delta Learning (DDL) and Vision Mamba architectures.
-  * Lead a distributed team of ML Systems Engineers, Applied Vision Researchers, and Data Engineering Interns to execute end-to-end experimental research and deployment workflows.
-  * Oversee the development, deployment, and rigorous evaluation of open-source PyTorch frameworks spanning Space AI, solar-weather forecasting, medical imaging, and uncertainty-aware conformal prediction systems.
+* **Research Assistant – Satellite AI & Causal Inference** | *Jun 2026 – Present*
+  * *AI & Global Development Lab (AIDevLab) – UT Austin / Chalmers*
+  * Research under Prof. Connor T. Jerzak and Prof. Adel Daoud on spatial-temporal conformal inference for satellite-based poverty prediction.
+  * Engineer geographic hold-out evaluations and conformal coverage metrics under large distribution shifts.
 
-* **Research Assistant (AI & Computer Vision)** | *May 2026 – Present*
+* **Research Intern – Computer Vision, OCR & Document Analytics** | *Jun 2026 – Present*
+  * *Indian Statistical Institute, Kolkata*
+  * Research under Prof. Umapada Pal on geometric recovery and OCR for highly degraded and unstructured text.
+  * Developing sub-quadratic Vision Mamba architectures and conformal risk-controlled VLM pipelines.
 
-  * *The ALIEN Lab, Aston University, UK (Remote)*
-  * Engineer foundational AI representations and low-level vision architectures under the supervision of Dr. Ziyang Wang.
-  * Design, implement, and rigorously evaluate deep learning pipelines optimized for complex spatial and sequential tasks within biomedical domains.
+* **Research Intern – Computer Vision, OCR & Document Analytics** | *Jun 2026 – Present*
+  * *The University of Salford, UK*
+  * Research under Prof. Shivakumara Palaiahnakote on complex scene-text recognition and geometric document restoration.
+  * Developing Blender-based synthetic datasets, geometric ground-truth pipelines, and domain-generalization benchmarks.
 
-* **Research Intern (Computer Vision, OCR & Document Analytics)** | *Jun 2026 – Present*
-
-  * *Indian Statistical Institute, Kolkata (Hybrid)*
-  * Spearhead research in computer vision and Optical Character Recognition (OCR) under the supervision of Prof. Umapada Pal, focusing on the restoration of highly degraded and unstructured texts.
-  * Formulate and evaluate novel deep learning architectures for text and image restoration, explicitly designed to bypass traditional segmentation bottlenecks and improve feature extraction.
-
-* **Research Intern (Computer Vision, OCR & Document Analytics)** | *Jun 2026 – Present*
-
-  * *The University of Salford, UK (Remote)*
-  * Drive international research initiatives in complex scene text recognition under the supervision of Prof. Shivakumara Palaiahnakote.
-  * Engineer advanced sequence modeling frameworks designed to process complex visual structures, optimizing architectures for high-fidelity text extraction in unstructured environments.
-
-* **Research Assistant & Team Lead** | *Sept 2025 – Present*
-
-  * *Sikkim Manipal Institute of Technology (SMIT) (Onsite)*
-  * Architected attention-enhanced Swin Transformer pipelines for complex medical diagnostics. Delivered robust brain tumor classification capabilities and generalized feature extraction under rigorous patient-level data splitting protocols (Accepted, IEEE GCON).
-  * Engineered AHF-RBF Net by replacing traditional Gaussian fuzzy membership with learnable Radial Basis Function (RBF) kernels. This architecture provides numerically stable, boundary-aware spatial attention for complex lesion segmentation, achieving a superior 84.55% IoU on the ISIC 2016 benchmark.
-  * Engineered Intrinsic Neural Firewalls utilizing Deep Delta Residual Overwrites for edge-deployed cyber-physical systems. Achieved high-performance, zero-shot anomaly rejection against False Data Injection Attacks (Accepted for Oral Presentation, WIN 6.0).
-  * Directed and mentored student research teams, training junior researchers in core deep learning methodologies and guiding end-to-end experimental design from conceptualization to multiple first-author and co-authored acceptances in IEEE and Springer venues.
+* **Research Assistant & Team Lead** | *Jul 2025 – Jul 2026*
+  * *Sikkim Manipal Institute of Technology*
+  * Developed attention-enhanced Swin Transformer pipelines for patient-level brain tumor classification.
+  * Engineered AHF-RBFNet for medical image segmentation, achieving 84.55% IoU on ISIC 2016.
+  * Developed Intrinsic Neural Firewalls using Deep Delta Residual Overwrites for cyber-physical anomaly rejection.
+  * Led and mentored student research teams from conceptualization through experimentation and publication.
 
 * **AI & Data Science Intern** | *Jul 2025 – Aug 2025*
+  * *Soft Nexis Technology*
+  * Developed RealVisor, an AI-powered real estate analytics platform using XGBoost, Random Forest, Python, and Streamlit.
 
-  * *Soft Nexis Technology (Remote)*
-  * Engineered and deployed RealVisor, an end-to-end AI real estate platform. Developed robust predictive pipelines utilizing XGBoost and Random Forest Regressors to estimate property valuations based on complex spatial features.
-  * Conducted rigorous evaluation across curated real-world datasets, strictly outperforming baseline models, and designed a production-ready Streamlit dashboard featuring interactive market trend visualizations and automated investment analysis.
+---
 
 ## Honors, Certifications & Academic Service
 
-* **Technical Peer Reviewer:** Invited and served as an official peer reviewer for the IEEE GCON conference, evaluating manuscripts in applied deep learning and computer vision.
+* **Technical Peer Reviewer:** IEEE GCON, reviewing manuscripts in applied deep learning and computer vision.
+* **Top 1% Topper & Gold Medalist:** NPTEL – Introduction to Internet of Things, 91%.
+* **Certifications:** NLP with Deep Learning, PyTorch for Medical Imaging, Generative AI for Data Scientists, Applied Machine Learning.
 
-* **Top 1% Topper & Gold Medalist:** Introduction to Internet of Things, NPTEL (Funded by MoE, Govt. of India). Elite score: 91%.
-
-* **Deep Learning & AI Certifications:** NLP with DL, PyTorch for Medical Imaging (Udemy); GenAI for Data Scientists (Coursera); Applied Machine Learning (AMII).
+---
 
 ## Technical Skills
 
-* **Languages & Frameworks:** Python, C, Java, PyTorch, TensorFlow, Keras, Streamlit, LaTeX, Git, GitHub
+* **Languages & Frameworks:** Python, C, Java, PyTorch, TensorFlow, Keras, Blender, Streamlit, LaTeX, Git, GitHub
 
 * **Computer Vision:** Vision Transformers, Mamba, State Space Models (SSMs), U-Net, Deep Delta Learning, Diffusion Models, GANs, YOLO, CNNs
 
-* **Signal Processing & Time Series:** 1D CNNs, Signal Analysis, SpaCy, NLTK, Text Mining, OCR Pipelines
+* **Signal Processing & NLP:** 1D CNNs, Signal Analysis, spaCy, NLTK, Text Mining, OCR Pipelines
 
 * **Data Engineering & Tools:** Pandas, NumPy, SciPy, Scikit-learn, ETL Workflows, Hadoop, Spark, Computational Workflows, High-Throughput Image Processing
