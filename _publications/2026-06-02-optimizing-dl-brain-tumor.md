@@ -5,7 +5,7 @@ permalink: /publication/2026-optimizing-dl-brain-tumor
 excerpt: 'A comprehensive ablation study isolating the impact of specific data preprocessing and augmentation pipelines, proposing a novel "destructive vs. constructive" taxonomy for medical image processing.'
 date: 2026-06-02
 venue: 'Accepted at IEEE GCON'
-paperurl: 'https://github.com/Latchan-Ch/Optimizing-Deep-Learning-for-Brain-Tumor-Classification'
+paperurl: '#'
 citation: 'L. Chhetri, A. Kumar. (2026). &quot;Optimizing Deep Learning for Brain Tumor Classification: A Comparative Ablation Study of Preprocessing and Augmentation Strategies.&quot; <i>IEEE GCON</i>.'
 ---
 
