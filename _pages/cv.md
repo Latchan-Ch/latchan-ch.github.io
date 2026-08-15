@@ -47,20 +47,20 @@ author_profile: true
 
 * **Research Intern (Computer Vision, OCR & Document Analytics)** | *Jun 2026 – Present*
 
-  * *Indian Statistical Institute, Kolkata (Hybrid)*
+  * *Indian Statistical Institute, Kolkata*
   * Geometric Recovery Architecture: Spearhead research under Prof. Umapada Pal to replace Thin-Plate Splines (TPS) with a sub-quadratic Vision Mamba (SSM) backbone, predicting dense 2D displacement fields to unwarp discontinuous metallic folds.
   * Forensic-Safe Semantic Recognition: Engineered a 3-stage pipeline integrating a Vision-Language Model (Qwen-VL) with a novel Conformal Risk-Controlled Abstention module, calculating normalized confidence scores to eliminate LLM hallucinations on destroyed texts.
 
 * **Research Intern (Computer Vision, OCR & Document Analytics)** | *Jun 2026 – Present*
 
-  * *The University of Salford, UK (Remote)*
+  * *The University of Salford, UK*
   * Synthetic Dataset Engineering: Developed a scalable, automated dataset generation pipeline via Blender’s Python API (bpy) under Prof. Shivakumara Palaiahnakote, simulating extreme physical metal buckling and volumetric mud occlusion.
   * Mathematical Ground-Truth Extraction: Programmed the rendering pipeline to export uncompressed 32-bit OpenEXR multi-layer files, preserving pure floating-point vector coordinates for strict geometric regression.
   * Domain Generalization & Benchmarking: Curating a real-world physical “Crash-ALPR” test set to benchmark zero-shot domain adaptation against SOTA deformable rectifiers (e.g., ABINet, MORN), mathematically isolating geometric failure modes.
 
 * **Research Assistant & Team Lead** | *July 2025 – July 2026*
 
-  * *Sikkim Manipal Institute of Technology (SMIT) (Onsite)*
+  * *Sikkim Manipal Institute of Technology (SMIT)*
   * Medical Vision & Attention Mechanisms: Architected attention-enhanced Swin Transformer pipelines for complex medical diagnostics. Delivered robust brain tumor classification capabilities and generalized feature extraction under rigorous patient-level data splitting protocols (Accepted, IEEE GCON).
   * Fuzzy Logic & Medical Image Segmentation: Engineered AHF-RBF Net by replacing traditional Gaussian fuzzy membership with learnable Radial Basis Function (RBF) kernels. This architecture provides numerically stable, boundary-aware spatial attention for complex lesion segmentation, achieving a superior 84.55% IoU on the ISIC 2016 benchmark.
   * Cyber-Physical Security & Anomaly Rejection: Engineered Intrinsic Neural Firewalls utilizing Deep Delta Residual Overwrites for edge-deployed cyber-physical systems. Achieved high-performance, zero-shot anomaly rejection against False Data Injection Attacks (Accepted for Oral Presentation, WIN 6.0).
@@ -68,7 +68,7 @@ author_profile: true
 
 * **AI & Data Science Intern** | *Jul 2025 – Aug 2025*
 
-  * *Soft Nexis Technology (Remote)*
+  * *Soft Nexis Technology*
   * Predictive Analytics Pipeline: Engineered and deployed RealVisor, an end-to-end AI real estate platform. Developed robust predictive pipelines utilizing XGBoost and Random Forest Regressors to estimate property valuations based on complex spatial features.
   * Model Evaluation & Deployment: Conducted rigorous evaluation across curated real-world datasets, strictly outperforming baseline models, and designed a production-ready Streamlit dashboard featuring interactive market trend visualizations and automated investment analysis.
 
