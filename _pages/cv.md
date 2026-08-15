@@ -61,6 +61,7 @@ author_profile: true
 * **Research Assistant & Team Lead** | *July 2025 – July 2026*
 
   * *Sikkim Manipal Institute of Technology (SMIT)*
+  * Conducting research under Prof. Palash Ghosal in deep learning, focusing on Computer Vision, Bio-Medical, OCR & Reliable AI.
   * Medical Vision & Attention Mechanisms: Architected attention-enhanced Swin Transformer pipelines for complex medical diagnostics. Delivered robust brain tumor classification capabilities and generalized feature extraction under rigorous patient-level data splitting protocols (Accepted, IEEE GCON).
   * Fuzzy Logic & Medical Image Segmentation: Engineered AHF-RBF Net by replacing traditional Gaussian fuzzy membership with learnable Radial Basis Function (RBF) kernels. This architecture provides numerically stable, boundary-aware spatial attention for complex lesion segmentation, achieving a superior 84.55% IoU on the ISIC 2016 benchmark.
   * Cyber-Physical Security & Anomaly Rejection: Engineered Intrinsic Neural Firewalls utilizing Deep Delta Residual Overwrites for edge-deployed cyber-physical systems. Achieved high-performance, zero-shot anomaly rejection against False Data Injection Attacks (Accepted for Oral Presentation, WIN 6.0).
