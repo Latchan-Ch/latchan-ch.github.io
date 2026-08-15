@@ -19,7 +19,7 @@ Spatial deepfake detectors in medical imaging often exploit dataset-level artifa
 * **High-Precision Forensic Detection:** Achieved 0.9971 ± 0.0016 AUC and 0.9931 ± 0.0056 Precision across three-seed cross-validation on a controlled 2,000-image cohort.
 
 ### Publication Status
-**Accepted at IEEE DSAA, 2026 — CORE A Tier**
+**Accepted at IEEE DSAA, 2026 — CORE A Tier (<25% acceptance rate)**
 
 **Authors:** A. Kumar, L. Chhetri, D. Das  
 * All authors contributed equally in this research
