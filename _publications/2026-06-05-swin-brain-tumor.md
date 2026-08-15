@@ -18,5 +18,10 @@ Contemporary brain tumor classification systems report accuracies exceeding 98%,
 * **Attention-Enhanced Backbone**: We integrated Convolutional Block Attention Modules (CBAM) into a Swin foundation backbone to prevent shortcut learning.
 * **Dual-Stage Feature Refinement**: We utilized sequential channel and spatial attention to explicitly prioritize tumor-discriminative features while suppressing patient-specific anatomical signatures (e.g., skull boundaries and ventricular configurations).
 
+### Publication Status
+**Accepted at IEEE GCON, 2026**
+
+**Authors:** L. Chhetri, P. Ghosal, A. Datta
+
 ### Code & Resources
 * [Official PyTorch Implementation (GitHub)](https://github.com/Latchan-Ch/Robust-Swin-Brain-Tumor)
