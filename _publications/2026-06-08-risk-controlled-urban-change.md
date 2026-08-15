@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2026-risk-controlled-urban-change
 excerpt: 'A rigorous statistical approach applying Marginal Split Conformal Prediction to transformer-based satellite change detection, achieving distribution-free coverage bounds and SOTA F1 scores.'
 date: 2026-06-08
-venue: 'Under Review at ICCI'
+venue: 'Accepted for Oral Presentation at ICCI'
 paperurl: '#'
-citation: 'A. Kumar, A. Mukherjee, H. Das, L. Chhetri, P. Ghosal. (2026). &quot;Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery.&quot; <i>ICCI (Under Review)</i>.'
+citation: 'A. Kumar, A. Mukherjee, S. Bala, S.R. Varma, A. Anand, H. Das, L. Chhetri. (2026). &quot;Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery.&quot; <i>ICCI</i>.'
 ---
 
 ### Abstract
