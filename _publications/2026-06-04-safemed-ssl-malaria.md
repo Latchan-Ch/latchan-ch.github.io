@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2026-safemed-ssl-malaria
 excerpt: 'An uncertainty-guided semi-supervised learning framework that integrates Monte Carlo dropout-based epistemic uncertainty estimation to reduce silent failure rates by 29.2% in resource-constrained environments.'
 date: 2026-06-04
-venue: 'Under Review at IEEE DSAA'
+venue: 'Under Review at ICVGIP'
 paperurl: 'https://github.com/Latchan-Ch/SafeMed-SSL'
-citation: 'L. Chhetri, Aman Kumar. (2026). &quot;Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis.&quot; <i>IEEE DSAA (Under Review)</i>.'
+citation: 'Aman Kumar, Latchan Chhetri, Ayush Anand, Hrishikesh Das, Ankona Mukherjee. (2026). &quot;Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis.&quot; <i>ICVGIP (Under Review)</i>.'
 ---
 
 ### Abstract
