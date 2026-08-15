@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2026-intrinsic-neural-firewalls
 excerpt: 'An intrinsic defense architecture (DDL-FW) for Cyber-Physical Systems that embeds anomaly detection directly into residual connections, achieving an F1 score of 0.7206 on the HAI 21.03 benchmark.'
 date: 2026-06-07
-venue: 'Under Review at WIN 6.0'
+venue: 'Accepted for Oral Presentation at WIN 6.0'
 paperurl: '#'
-citation: 'R. Das, L. Chhetri, A. Kumar, P. Ghosal. (2026). &quot;Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites.&quot; <i>WIN 6.0 (Under Review)</i>.'
+citation: 'R. Das, L. Chhetri, A. Kumar, P. Ghosal. (2026). &quot;Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites.&quot; <i>WIN 6.0</i>.'
 ---
 
 ### Abstract
