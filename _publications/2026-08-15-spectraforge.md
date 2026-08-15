@@ -6,7 +6,7 @@ excerpt: 'A domain-equalized dual-stream CNN framework for robust synthetic derm
 date: 2026-08-15
 venue: 'Accepted at IEEE DSAA (Core A-Tier), 2026'
 paperurl: '#'
-citation: 'A. Kumar*, L. Chhetri*, D. Das*.(2026). &quot;SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection.&quot; <i>IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i>.'
+citation: 'A. Kumar*, L. Chhetri*, D. Das*. (2026). &quot;SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection.&quot; <i>IEEE International Conference on Data Science and Advanced Analytics (DSAA)</i>.'
 ---
 
 ### Abstract
