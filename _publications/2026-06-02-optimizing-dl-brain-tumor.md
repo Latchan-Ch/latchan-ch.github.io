@@ -18,5 +18,10 @@ This work fills an important gap in the literature on brain tumor classification
 * **Constructive Preprocessing Paradigm:** Validated that edge-aware bilateral filtering acts as a "constructive" preprocessing step, suppressing noise without blurring anatomical boundaries, achieving an optimal 93.86% accuracy.
 * **Algorithmic Patient-Level Splitting:** Implemented strict regex-based patient ID grouping and perceptual hash checking to guarantee zero patient overlap between splits, providing realistic performance metrics over inflated baseline claims.
 
+### Publication Status
+**Accepted at IEEE GCON, 2026**
+
+**Authors:** L. Chhetri, A. Kumar
+
 ### Code & Resources
 * [Official Jupyter/PyTorch Pipeline (GitHub)](https://github.com/Latchan-Ch/Optimizing-Deep-Learning-for-Brain-Tumor-Classification)
