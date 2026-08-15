@@ -6,7 +6,7 @@ excerpt: 'An uncertainty-guided semi-supervised learning framework that integrat
 date: 2026-06-04
 venue: 'Under Review at ICVGIP'
 paperurl: '#'
-citation: 'Aman Kumar, Latchan Chhetri, Ayush Anand, Hrishikesh Das, Ankona Mukherjee. (2026). &quot;Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis.&quot; <i>ICVGIP (Under Review)</i>.'
+citation: 'A. Kumar, L. Chhetri, A. Anand, H. Das, A. Mukherjee. (2026). &quot;Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis.&quot; <i>ICVGIP (Under Review)</i>.'
 ---
 
 ### Abstract
@@ -17,6 +17,11 @@ Deploying AI-based diagnostic tools in resource-constrained healthcare settings 
 * **Reduction of Silent Failures:** Mathematically validated a 29.2% reduction in silent failure rates (from 2.50% to 1.77%) compared to the strongest SSL baselines, prioritizing clinical safety over raw accuracy inflation.
 * **Extreme Low-Resource Efficiency:** Maintained diagnostic accuracy while operating on an extreme low-resource constraint of only 20% labeled data (an 80% reduction in annotation requirements).
 * **Threshold Robustness:** Demonstrated that the architecture maintains consistent safety metrics across variable operating points, unlike standard fixed-threshold SSL methods that degrade upon relaxation.
+
+### Publication Status
+**Under Review at ICVGIP, 2026**
+
+**Authors:** A. Kumar, L. Chhetri, A. Anand, H. Das, A. Mukherjee
 
 ### Code & Resources
 * [Official PyTorch Implementation (GitHub)](https://github.com/Latchan-Ch/SafeMed-SSL)
