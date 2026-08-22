@@ -15,7 +15,7 @@ I am Latchan, and my work centers on architecting hardware-efficient, scalable d
 * **Efficient Architectures:** Developing lightweight, high-throughput architectures via geometric residual learning and DDL overwrites for edge-device deployment.
 * **Medical Imaging & Remote Sensing:** Developing robust frameworks resistant to distribution shifts and data leakage. Utilizing light-weight & efficient architectures for remote sensing and earth observations.
 
-### Independent Research Group — Halo Mind
+### My Research Group — The Halo Mind Research Group
 Hybrid Architectures & Lightweight Optimization | Machine Intelligence & Neural Dynamics
 
 I am the Co-Founder and Chief AI Scientist of Halo Mind, a Research Group & applied DeepTech and AI research firm focused on hardware-efficient systems, AI systems, State Space Models (Mamba), Deep Delta Learning (DDL), uncertainty-aware machine learning, and lightweight architectures for real-world deployment.
