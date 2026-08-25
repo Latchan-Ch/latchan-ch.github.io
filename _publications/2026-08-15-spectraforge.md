@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-spectraforge
 excerpt: 'A domain-equalized dual-stream CNN framework for robust synthetic dermatology detection, achieving 0.9971 AUC and 0.9277 OOD AUC.'
 date: 2026-08-15
-venue: 'Accepted at IEEE DSAA (Core A-Tier), 2026'
+venue: 'Accepted for Short Oral Presentation at IEEE DSAA (Core A-Tier), 2026'
 paperurl: '#'
 citation: 'A. Kumar*, L. Chhetri*, D. Das*. (2026). &quot;SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection.&quot; <i>IEEE DSAA</i>.'
 ---
@@ -19,7 +19,7 @@ Spatial deepfake detectors in medical imaging often exploit dataset-level artifa
 * **High-Precision Forensic Detection:** Achieved 0.9971 ± 0.0016 AUC and 0.9931 ± 0.0056 Precision across three-seed cross-validation on a controlled 2,000-image cohort.
 
 ### Publication Status
-**Accepted at IEEE DSAA, 2026 — CORE A Tier (<25% acceptance rate)**
+**Accepted for Short Oral Presentation at IEEE DSAA, 2026 — CORE A Tier (<25% acceptance rate)**
 
 **Authors:** A. Kumar, L. Chhetri, D. Das  
 * All authors contributed equally in this research
