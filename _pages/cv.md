@@ -13,84 +13,85 @@ author_profile: true
 
 ## Education
 
-* **Bachelor of Technology in Computer Science and Engineering (AI & Data Science)**
+* **B.Tech, Computer Science & Engineering (Artificial Intelligence & Data Science)**
 
-  * Sikkim Manipal Institute of Technology (SMIT), Sikkim, India
-  * July 2023 – June 2027
+  * Manipal Institute of Technology (Sikkim), Sikkim Manipal University, Sikkim, India
+  * Jul 2023 – Jun 2027
 
-* **ISC (Class 11 & 12) – Science**
+* **ISC (Class XII), Science**
 
-  * St. Xavier’s School, West Bengal, India
-  * April 2021 – March 2023
+  * St. Xavier's School, West Bengal, India
+  * 2023
 
-* **ICSE (Class 1 – 10)**
-
-  * St. Xavier’s School, West Bengal, India
-  * April 2010 – March 2021
-
- ---
+---
 
 ## Experience
 
-* **Founder & Chief AI Researcher** | *Jan 2026 – Present*
+* **Research Intern, CVPR Unit** | *Jun 2026 – Present*
 
-  * *Halo Mind Research Group (Independent Research Organization)*
-  * Architectural Direction: Direct the fundamental scientific trajectory of an independent research group focused on hardware-efficient networks & sub-quadratic mechanisms.
-  * Research Leadership: Manage a distributed team of ML Systems Engineers, Applied Vision Researchers, and Data Engineering Interns to execute end-to-end experimental designs.
-  * Open-Source Development: Oversee the deployment and rigorous evaluation of robust PyTorch frameworks for space AI, solar-weather forecasting, medical imaging, and conformal prediction.
+  * *Indian Statistical Institute, Kolkata (jointly with the University of Salford, UK) | Hybrid*
+  * Supervisors: Prof. Umapada Pal (ISI Kolkata) and Prof. Shivakumara Palaiahnakote (University of Salford)
+  * Working on recognition of licence plates that are bent, buckled, torn or partly covered, where standard OCR models fail badly on real damaged images. The core question is when the visible character evidence is enough to correct the geometry, and when the information is truly lost.
+  * Developing a recognition-guided feedback loop that corrects local geometry only when the remaining character evidence supports it, and returns candidates with uncertainty when it does not. Designed experiments to separate deformation errors from missing-information errors before building the full model.
+  * Benchmarked multiple recognizers (PARSeq, LPRNet, TrOCR, PaddleOCR, Qwen2.5-VL, etc.) on a manually verified set of crash-damaged plates. The VLM had the lowest character error rate (0.49) but read zero plates fully correctly: it stopped at folds and substituted plausible-looking characters for damaged ones.
+  * Building a Blender-based synthetic generator to supply dense deformation, damage and visibility ground truth, and collected a manually verified real damaged-plate test set.
 
-* **Research Assistant (Satellite AI & Causal Inference)** | *Jun 2026 – Present*
+* **Research Collaborator, Remote Sensing & EO Vision** | *Sep 2026 – Present*
 
-  * *AI & Global Development Lab (AIDevLab) – UT Austin / Chalmers*
-  * Spatial-Temporal Conformal Frameworks: Collaborating under the supervision of Prof. Connor T. Jerzak and Prof. Adel Daoud to engineer spatial-temporal conformal inference frameworks for satellite-imagery based poverty prediction models, demonstrating how standard conformal intervals break down under large geographic shifts.
-  * Model Evaluations: Engineered custom Data-Loaders for continuous International Wealth Index (IWI) score prediction, establishing baseline prediction errors and conformal coverage metrics across geographic hold-outs (e.g., training on African data, evaluating on out-of-continent hold-outs).
+  * *Prof. Swalpa Kumar Roy (Tezpur University) and Dr. Saurabh Kaushik (University of Wisconsin–Madison) | Hybrid*
+  * Adapting pretrained Earth-observation foundation models (e.g., THOR) to downstream tasks, modifying architectures and fine-tuning strategy for semantic segmentation and localization in satellite imagery.
+  * Setting up a multi-dataset evaluation across optical satellite benchmarks to test how well foundation-model features transfer between sensors, resolutions and regions, rather than tuning to a single benchmark.
+  * Reproducing recently published remote sensing models from their released code to establish trustworthy baselines, after finding that several reported results could not be reproduced.
 
-* **Research Intern (Computer Vision, OCR & Document Analytics)** | *Jun 2026 – Present*
+* **Research Assistant, Satellite AI & Causal Inference** | *Jun 2026 – Present*
 
-  * *Indian Statistical Institute, Kolkata*
-  * Geometric Recovery Architecture: Spearhead research under Prof. Umapada Pal to replace Thin-Plate Splines (TPS) with a sub-quadratic Vision Mamba (SSM) backbone, predicting dense 2D displacement fields to unwarp discontinuous metallic folds.
-  * Forensic-Safe Semantic Recognition: Engineered a 3-stage pipeline integrating a Vision-Language Model (Qwen-VL) with a novel Conformal Risk-Controlled Abstention module, calculating normalized confidence scores to eliminate LLM hallucinations on destroyed texts.
+  * *AI & Global Development Lab (AIDevLab), UT Austin / Chalmers University | Remote*
+  * Supervisors: Prof. Connor T. Jerzak (UT Austin) and Prof. Adel Daoud (Chalmers University)
+  * Studying how conformal prediction intervals behave when a satellite-imagery poverty model is moved to a new region; showing that standard intervals lose their coverage under large geographic shift.
+  * Wrote the data loaders for continuous International Wealth Index (IWI) regression and set up baselines and coverage metrics for geographic hold-outs, for example training on African data and testing outside the continent.
 
-* **Research Intern (Computer Vision, OCR & Document Analytics)** | *Jun 2026 – Present*
+* **Founder & Lead Researcher** | *Jan 2026 – Present*
 
-  * *The University of Salford, UK*
-  * Synthetic Dataset Engineering: Developed a scalable, automated dataset generation pipeline via Blender’s Python API (bpy) under Prof. Shivakumara Palaiahnakote, simulating extreme physical metal buckling and volumetric mud occlusion.
-  * Mathematical Ground-Truth Extraction: Programmed the rendering pipeline to export uncompressed 32-bit OpenEXR multi-layer files, preserving pure floating-point vector coordinates for strict geometric regression.
-  * Domain Generalization & Benchmarking: Curating a real-world physical “Crash-ALPR” test set to benchmark zero-shot domain adaptation against SOTA deformable rectifiers (e.g., ABINet, MORN), mathematically isolating geometric failure modes.
+  * *Halo Mind Research Group | Onsite*
+  * Started and run a small group of undergraduate researchers working on efficient vision architectures and reliable evaluation. Group work includes the DSAA 2026 and ICCI 2026 papers and the bioRxiv brain tumor segmentation preprint.
+  * Set research directions, plan experiments, review code, and write papers with junior members. As senior author on the ICCI paper, I supervised a seven-person team from idea to oral presentation. Currently preparing a CVPR 2027 submission.
 
-* **Research Assistant & Team Lead** | *July 2025 – July 2026*
+* **Research Assistant & Team Lead** | *Jul 2025 – Jul 2026*
 
-  * *Sikkim Manipal Institute of Technology (SMIT)*
-  * Conducting research under Prof. Palash Ghosal in deep learning, focusing on Computer Vision, Bio-Medical, OCR & Reliable AI.
-  * Medical Vision & Attention Mechanisms: Architected attention-enhanced Swin Transformer pipelines for complex medical diagnostics. Delivered robust brain tumor classification capabilities and generalized feature extraction under rigorous patient-level data splitting protocols (Accepted, IEEE GCON).
-  * Fuzzy Logic & Medical Image Segmentation: Engineered AHF-RBF Net by replacing traditional Gaussian fuzzy membership with learnable Radial Basis Function (RBF) kernels. This architecture provides numerically stable, boundary-aware spatial attention for complex lesion segmentation, achieving a superior 84.55% IoU on the ISIC 2016 benchmark.
-  * Cyber-Physical Security & Anomaly Rejection: Engineered Intrinsic Neural Firewalls utilizing Deep Delta Residual Overwrites for edge-deployed cyber-physical systems. Achieved high-performance, zero-shot anomaly rejection against False Data Injection Attacks (Accepted for Oral Presentation, WIN 6.0).
-  * Research Leadership & Pipeline Engineering: Directed and mentored student research teams, training junior researchers in core deep learning methodologies and guiding end-to-end experimental design from conceptualization to multiple first-author and co-authored acceptances in IEEE and Springer venues.
+  * *Sikkim Manipal Institute of Technology | Onsite*
+  * Showed that image-level train/test splits inflate brain tumor classification accuracy by up to 3.71%. Proposed a Swin Transformer with CBAM attention that reached 96.82% accuracy under patient-level splitting and had the smallest leakage gap of five models (IEEE GCON 2026).
+  * Ran controlled preprocessing experiments on 3,064 MRI scans from 233 patients. Found that skull stripping and CLAHE hurt accuracy while bilateral filtering with augmentation reached 93.86% (AUC 0.991) (IEEE GCON 2026).
+  * Engineered Intrinsic Neural Firewalls utilizing Deep Delta Residual Overwrites for edge-deployed cyber-physical systems. Achieved high-performance, zero-shot anomaly rejection against False Data Injection Attacks (WIN 6.0).
+  * Directed and mentored student research teams, training junior researchers in core deep learning methodologies and guiding end-to-end experimental design from conceptualization to multiple first-author and co-authored acceptances in IEEE, Springer and T&F venues.
 
 * **AI & Data Science Intern** | *Jul 2025 – Aug 2025*
 
-  * *Soft Nexis Technology*
-  * Predictive Analytics Pipeline: Engineered and deployed RealVisor, an end-to-end AI real estate platform. Developed robust predictive pipelines utilizing XGBoost and Random Forest Regressors to estimate property valuations based on complex spatial features.
-  * Model Evaluation & Deployment: Conducted rigorous evaluation across curated real-world datasets, strictly outperforming baseline models, and designed a production-ready Streamlit dashboard featuring interactive market trend visualizations and automated investment analysis.
+  * *Soft Nexis Technology | Remote*
+  * Engineered and deployed RealVisor, an end-to-end AI real estate platform. Developed robust predictive pipelines utilizing XGBoost and Random Forest Regressors to estimate property valuations based on complex spatial features.
+  * Conducted rigorous evaluation across curated real-world datasets, strictly outperforming baseline models, and designed a production-ready Streamlit dashboard featuring interactive market trend visualizations and automated investment analysis.
 
 ---
 
 ## Honors, Certifications & Academic Service
 
-* **Technical Peer Reviewer:** Invited and served as an official peer reviewer for the IEEE GCON conference, evaluating manuscripts in applied deep learning and computer vision.
+* **Technical Peer Reviewer (ICVGIP 2026):** Nominated and invited by Program Chairs to evaluate research manuscripts for the Indian Conference on Computer Vision, Graphics and Image Processing (Published by ACM ICPS / supported by IUPRAI).
 
-* **Top 1% Topper & Gold Medalist:** Introduction to Internet of Things, NPTEL (Funded by MoE, Govt. of India). Elite score: 91%.
+* **Technical Peer Reviewer (IEEE GCON 2026):** Invited official peer reviewer evaluating submissions in applied deep learning, medical imaging, and computer vision architectures for IEEE GCON.
 
-* **Deep Learning & AI Certifications:** NLP with DL, PyTorch for Medical Imaging (Udemy); GenAI for Data Scientists (Coursera); Applied Machine Learning (AMII).
+* **NPTEL Elite + Gold, Topper (Top 1%):** Introduction to Internet of Things, IIT Kharagpur. Scored 91%; top 1% of 50,282 certified candidates.
+
+* **Online Coursework:** Deep Learning with PyTorch for Medical Image Analysis (Udemy); Introduction to Applied Machine Learning (Amii, via Coursera); Natural Language Processing with Deep Learning in Python (Udemy); Data Science & AI Masters (Udemy).
 
 ---
 
 ## Technical Skills
 
-* **Languages & Frameworks:** Python, C, Java, PyTorch, TensorFlow, Keras, Blender, Streamlit, LaTeX, Git, GitHub
+* **Languages:** Python, C, Java, LaTeX
 
-* **Computer Vision:** Vision Transformers, Mamba, State Space Models (SSMs), U-Net, Deep Delta Learning, Diffusion Models, GANs, YOLO, CNNs
+* **Deep Learning:** PyTorch, TensorFlow/Keras, Optuna
 
-* **Signal Processing & Time Series:** 1D CNNs, Signal Analysis, SpaCy, NLTK, Text Mining, OCR Pipelines
+* **Architectures:** CNNs, Vision Transformers, State-Space Models (Mamba), U-Net variants, GANs, Diffusion Models, VLMs, Foundation Models
 
-* **Data Engineering & Tools:** Pandas, NumPy, SciPy, Scikit-learn, ETL Workflows, Hadoop, Spark, Computational Workflows, High-Throughput Image Processing
+* **Methods:** Segmentation, Detection, Classification, OCR, Self-Supervised Learning, Conformal Prediction, OOD Evaluation, Explainable AI, Interpretability
+
+* **Data & Tools:** NumPy, Pandas, SciPy, Scikit-Learn, Blender, ETL Workflows, Hadoop, Spark, spaCy, NLTK, Git, Streamlit
