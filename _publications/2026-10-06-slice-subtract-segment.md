@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-slice-subtract-segment
 excerpt: 'Separating the two design levers in brain tumor segmentation (network architecture and input representation) through an efficient 2D SIBA-UNet and a controlled 3D study of cross-modal MRI subtraction maps.'
 date: 2026-10-06
-venue: 'bioRxiv (Preprint)'
+venue: 'bioRxiv'
 paperurl: '#'
 citation: 'L. Chhetri, A. Anand (2026). &quot;Slice, Subtract, Segment: Efficient 2D and Physiologically Informed 3D Brain Tumor Segmentation.&quot; <i>bioRxiv</i>. doi:10.64898/2026.10.04.756528.'
 ---
