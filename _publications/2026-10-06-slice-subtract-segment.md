@@ -18,5 +18,5 @@ Glioma segmentation on multiparametric MRI can be improved in two ways: by chang
 * **Controlled and Transparent Reporting:** Each study changes one variable at a time, results are reported exactly as documented, and scores across the two studies are not compared directly because their datasets, dimensionality and evaluation protocols differ.
 
 ### Resources
-* **Preprint:** [bioRxiv, doi:10.64898/2026.10.04.756528](https://doi.org/10.64898/2026.10.04.756528)
+* **Paper:** [bioRxiv, doi:10.64898/2026.10.04.756528](https://doi.org/10.64898/2026.10.04.756528)
 * **Data:** Publicly available BraTS 2020 and BraTS-GLI 2023 training data, under the BraTS challenge data-use terms.
