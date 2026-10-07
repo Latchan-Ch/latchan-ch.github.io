@@ -27,7 +27,7 @@ author_profile: true
 
 ## Experience
 
-* **Research Intern, CVPR Unit** | *Jun 2026 – Present*
+ **Research Intern, CVPR Unit** | *Jun 2026 – Present*
 
   * *Indian Statistical Institute, Kolkata (jointly with the University of Salford, UK) | Hybrid*
   * Supervisors: Prof. Umapada Pal (ISI Kolkata) and Prof. Shivakumara Palaiahnakote (University of Salford)
@@ -36,27 +36,27 @@ author_profile: true
   * Benchmarked multiple recognizers (PARSeq, LPRNet, TrOCR, PaddleOCR, Qwen2.5-VL, etc.) on a manually verified set of crash-damaged plates. The VLM had the lowest character error rate (0.49) but read zero plates fully correctly: it stopped at folds and substituted plausible-looking characters for damaged ones.
   * Building a Blender-based synthetic generator to supply dense deformation, damage and visibility ground truth, and collected a manually verified real damaged-plate test set.
 
-* **Research Collaborator, Remote Sensing & EO Vision** | *Sep 2026 – Present*
+ **Research Collaborator, Remote Sensing & EO Vision** | *Sep 2026 – Present*
 
   * *Prof. Swalpa Kumar Roy (Tezpur University) and Dr. Saurabh Kaushik (University of Wisconsin–Madison) | Hybrid*
   * Adapting pretrained Earth-observation foundation models (e.g., THOR) to downstream tasks, modifying architectures and fine-tuning strategy for semantic segmentation and localization in satellite imagery.
   * Setting up a multi-dataset evaluation across optical satellite benchmarks to test how well foundation-model features transfer between sensors, resolutions and regions, rather than tuning to a single benchmark.
   * Reproducing recently published remote sensing models from their released code to establish trustworthy baselines, after finding that several reported results could not be reproduced.
 
-* **Research Assistant, Satellite AI & Causal Inference** | *Jun 2026 – Present*
+ **Research Assistant, Satellite AI & Causal Inference** | *Jun 2026 – Present*
 
   * *AI & Global Development Lab (AIDevLab), UT Austin / Chalmers University | Remote*
   * Supervisors: Prof. Connor T. Jerzak (UT Austin) and Prof. Adel Daoud (Chalmers University)
   * Studying how conformal prediction intervals behave when a satellite-imagery poverty model is moved to a new region; showing that standard intervals lose their coverage under large geographic shift.
   * Wrote the data loaders for continuous International Wealth Index (IWI) regression and set up baselines and coverage metrics for geographic hold-outs, for example training on African data and testing outside the continent.
 
-* **Founder & Lead Researcher** | *Jan 2026 – Present*
+ **Founder & Lead Researcher** | *Jan 2026 – Present*
 
   * *Halo Mind Research Group | Onsite*
   * Started and run a small group of undergraduate researchers working on efficient vision architectures and reliable evaluation. Group work includes the DSAA 2026 and ICCI 2026 papers and the bioRxiv brain tumor segmentation preprint.
   * Set research directions, plan experiments, review code, and write papers with junior members. As senior author on the ICCI paper, I supervised a seven-person team from idea to oral presentation. Currently preparing a CVPR 2027 submission.
 
-* **Research Assistant & Team Lead** | *Jul 2025 – Jul 2026*
+ **Research Assistant & Team Lead** | *Jul 2025 – Jul 2026*
 
   * *Sikkim Manipal Institute of Technology | Onsite*
   * Showed that image-level train/test splits inflate brain tumor classification accuracy by up to 3.71%. Proposed a Swin Transformer with CBAM attention that reached 96.82% accuracy under patient-level splitting and had the smallest leakage gap of five models (IEEE GCON 2026).
@@ -64,7 +64,7 @@ author_profile: true
   * Engineered Intrinsic Neural Firewalls utilizing Deep Delta Residual Overwrites for edge-deployed cyber-physical systems. Achieved high-performance, zero-shot anomaly rejection against False Data Injection Attacks (WIN 6.0).
   * Directed and mentored student research teams, training junior researchers in core deep learning methodologies and guiding end-to-end experimental design from conceptualization to multiple first-author and co-authored acceptances in IEEE, Springer and T&F venues.
 
-* **AI & Data Science Intern** | *Jul 2025 – Aug 2025*
+ **AI & Data Science Intern** | *Jul 2025 – Aug 2025*
 
   * *Soft Nexis Technology | Remote*
   * Engineered and deployed RealVisor, an end-to-end AI real estate platform. Developed robust predictive pipelines utilizing XGBoost and Random Forest Regressors to estimate property valuations based on complex spatial features.
